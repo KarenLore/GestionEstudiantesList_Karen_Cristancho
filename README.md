@@ -7,11 +7,12 @@ Este proyecto es una aplicación de consola en Java que permite gestionar una li
 - Permite registrar una lista de estudiantes ingresados por el usuario.
 - Muestra la lista completa de estudiantes registrados.
 - Permite buscar un estudiante por su nombre.
-- Posibilidad de eliminar un estudiante de la lista.
+- Ordena los estudiantes en orden alfabético.
 
 ## ⚡ Tecnologías Utilizadas
 - Lenguaje: **Java 17+**
 - Colecciones de Java: **ArrayList**
+- Clases Utilizadas: **Scanner, Collections**
 
 ## ✅ Requisitos Previos
 Antes de ejecutar el proyecto, asegúrate de tener instalado:
@@ -21,15 +22,16 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 ## ⚙ Instalación y Ejecución
 1. Clona este repositorio o descarga el archivo `.java`.
    ```sh
-   git clone https://github.com/KarenLore GestionEstudiantesList_Karen_Cristancho.git
+   git clone https://github.com/KarenLore/GestionEstudiantesList_Karen_Cristancho.git
+   cd GestionEstudiantesList
    ```
 2. Compila el archivo Java:
    ```sh
-   javac GestionEstudiantes.java
+   javac com/taller_refuerzo/Main.java
    ```
 3. Ejecuta el programa:
    ```sh
-   java GestionEstudiantes
+   java com.taller_refuerzo.Main
    ```
 
 ## 🔧 Uso
@@ -37,9 +39,8 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 2. Ingresar los nombres de los estudiantes.
 3. Mostrar la lista de estudiantes registrados.
 4. Buscar un estudiante por nombre.
-5. Eliminar un estudiante de la lista.
-6. Mostrar la lista actualizada tras eliminaciones.
+5. Ordenar la lista alfabéticamente.
+6. Verificar si un estudiante está en la lista.
 
 ## 👥 Autor
 **Karen Cristancho**  
----
