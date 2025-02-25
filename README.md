@@ -44,3 +44,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 ## 👥 Autor
 **Karen Cristancho**  
+
+📬 Contacto
+- 📧 Correo electrónico: criscacereskarenlorena@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/karencristancho
